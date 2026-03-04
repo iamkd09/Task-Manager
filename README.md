@@ -32,7 +32,7 @@ This API allows users to register, authenticate using JWT, and perform CRUD oper
 ## 📂 Project Structure
 
 task_manager/
-│
+
 ├── config/ # Project settings
 ├── tasks/ # Main app
 │ ├── models.py
